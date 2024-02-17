@@ -1,0 +1,3 @@
+#!/bin/sh
+MY_MESSAGE="HELLO WORLD"
+echo $MY_MESSAGE
