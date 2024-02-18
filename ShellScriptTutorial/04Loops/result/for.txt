@@ -1,0 +1,17 @@
+1부터 5까지 반복
+Looping ... number 1
+Looping ... number 2
+Looping ... number 3
+Looping ... number 4
+Looping ... number 5
+다양한 자료형 반복
+Looping ... i is set to hello
+Looping ... i is set to 1
+Looping ... i is set to for.sh
+Looping ... i is set to myfile.txt
+Looping ... i is set to result
+Looping ... i is set to while.sh
+Looping ... i is set to while2.sh
+Looping ... i is set to while3.sh
+Looping ... i is set to 2
+Looping ... i is set to goodbye

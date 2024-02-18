@@ -1,0 +1,11 @@
+Hello      World
+Hello World
+Hello * World
+Hello EchoTest.sh HelloWorld.sh echoTestResult.txt World
+Hello World
+Hello World
+Hello       World
+Hello * World
+./EchoTest.sh: line 10: hello: command not found
+world
+hello world

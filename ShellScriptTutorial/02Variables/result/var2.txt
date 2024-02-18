@@ -1,0 +1,3 @@
+#JJY를 입력했을 경우
+What is your name?
+Hello JJY - hope you're well.
