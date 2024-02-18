@@ -1,0 +1,10 @@
+#!/bin/sh
+echo "I was called with $# parameters"
+echo "My name is $0"
+echo "My first parameter is $1"
+echo "My second parameter is $2"
+echo "All parameters are $@"
+echo "All parameters are $*"
+echo "current process ID is $$"
+echo "last backgroud process ID is $!"
+echo  "parameter seperator is $IFS"
