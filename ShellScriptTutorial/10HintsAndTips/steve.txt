@@ -1,0 +1,4 @@
+steve:x:5062:509:Steve Parker:/home/steve:/bin/bash
+fred:x:5068:512:Fred Stevens:/home/fred:/bin/bash
+tom:x:5068:512:Tom Riddle:/home/fred:/bin/bash
+jjy:x:5068:512:Jeong Jeong Yong:/home/fred:/bin/bash
